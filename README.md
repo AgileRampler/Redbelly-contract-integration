@@ -138,11 +138,13 @@ Go to the Solidity Compiler from the left-panel.
 To compile a contract, either select the desired file from the File Explorer, or ensure that the desired file is the active one in the Editor if multiple files are open.
 
 If there is an active file chosen in the file explorer, then the solidity compiler will look like this:
+
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/6f10708f-4caf-4c2c-b304-ece052edddbc)
 
 Click on Compile 5ire.sol to compile the contract file.
 
 After successful compilation, this is what your screen will look like:
+
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/df56466d-8d11-4911-b554-dcb31d821f21)
 
 
@@ -152,14 +154,22 @@ Step 6: Deployment
 Go to the Deploy & Run Transactions sidebar from the left-panel.
 
 In order to use this module, it is necessary to have a compiled contract. Hence, if there is a contract name in the CONTRACT select box (the select box is under the VALUE input field), you can use this module.)
+
+
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/836654bd-d0b9-46db-a2eb-209e858f50a8)
+
 Click on Deploy.
 Confirm the transaction on Web3 extension.
 
+
 Once the transaction is confirmed, the deployment details, contract address and transaction, will be visible in the terminal:
+
+
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/a5b1f4e0-9915-4896-a8ad-2d2db5006e7e)
 
 you can check the trasaction hash in the debug button of terminal 
+
+
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/8a7ef2ec-47c8-4ff1-937c-021639da9922)
 
 
