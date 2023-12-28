@@ -1,4 +1,4 @@
-# Redbelly-contract-integration
+# Redbelly-smart-contract-integration
 
 Note: In order to start using the smart contract, users must set uptheir wallet. Must need a metamask or any wallet to deploy the contract
 
