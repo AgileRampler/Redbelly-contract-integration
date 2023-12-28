@@ -173,7 +173,7 @@ you can check the trasaction hash in the debug button of terminal
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/8a7ef2ec-47c8-4ff1-937c-021639da9922)
 
 
-finally use the transaction hash in redebelly scan to check the contract creation  
+finally you can use  the transaction hash in redebelly scan to check the contract deployed
 https://explorer.devnet.redbelly.network/overview
 
 
