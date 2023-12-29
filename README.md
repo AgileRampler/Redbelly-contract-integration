@@ -18,20 +18,10 @@ Step 4: Writing the code
 
 You can either paste your existing code in the main panel of the redbelly.sol file or upload your contract file in the Workspace.
 
-```bash
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-contract rebully {
-function KRIPBUTTON() external pure returns (string memory) {
-return "redbully mainnet";
-}
-}
 
 
-```
 
-
-**or you can use the  code below
+**Use  the  code below
 **
 
 ```bash
