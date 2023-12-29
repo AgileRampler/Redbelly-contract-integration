@@ -30,8 +30,10 @@ return "redbully mainnet";
 
 ```
 
-**you can use this code or
+
+**or you can use the  code below
 **
+
 ```bash
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
@@ -126,8 +128,10 @@ contract ERC20 is IERC20 {
 
 
 
-This is how your screen will appear after pasting either  code mentioned above: **
-Note: you can use any of the two code **
+This is how your screen will appear after pasting either  code mentioned above: 
+
+
+**   Note: you can use any of the two code **
 
 ![image](https://github.com/AgileRampler/Redbully-contract-integration/assets/43984000/ada0221a-75e3-4b67-adb0-eb68a553cebd)
 
