@@ -130,10 +130,13 @@ To compile a contract, either select the desired file from the File Explorer, or
 
 If there is an active file chosen in the file explorer, then the solidity compiler will look like this:
 
-![image](https://github.com/AgileRampler/Redbelly-contract-integration/assets/43984000/471ce1e2-f94f-4dd6-a77a-67d2b5810ca4)
+![image](https://github.com/AgileRampler/Redbelly-contract-integration/assets/43984000/038a2afc-4859-46aa-b813-55d5716df11b)
+
 
 
 Click on Compile redbelly.sol to compile the contract file.
+
+
 
 After successful compilation, this is what your screen will look like:
 
