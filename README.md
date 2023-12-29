@@ -130,7 +130,8 @@ To compile a contract, either select the desired file from the File Explorer, or
 
 If there is an active file chosen in the file explorer, then the solidity compiler will look like this:
 
-![image](https://github.com/AgileRampler/Redbelly-contract-integration/assets/43984000/038a2afc-4859-46aa-b813-55d5716df11b)
+![image](https://github.com/AgileRampler/Redbelly-contract-integration/assets/43984000/e564e8ab-20df-4e1a-b808-c87c08284a85)
+
 
 
 
